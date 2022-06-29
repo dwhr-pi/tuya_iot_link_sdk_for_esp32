@@ -2,7 +2,7 @@
 
 Mehr Anleitungen zu googeln mit: "esp32 tuya". 
 
-[Blink an LED on ESP32 board with Tuya Link SDK(https://www.cnx-software.com/2021/12/13/blink-an-led-on-esp32-board-with-tuya-link-sdk/)]. 
+[Blink an LED on ESP32 board with Tuya Link SDK](https://www.cnx-software.com/2021/12/13/blink-an-led-on-esp32-board-with-tuya-link-sdk/). 
 
 
 
