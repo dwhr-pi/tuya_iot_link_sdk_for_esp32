@@ -1,5 +1,11 @@
 # Tuya Link SDK for ESP32 Sample application
 
+Mehr Anleitungen zu googeln mit: "esp32 tuya". 
+
+[Blink an LED on ESP32 board with Tuya Link SDK(https://www.cnx-software.com/2021/12/13/blink-an-led-on-esp32-board-with-tuya-link-sdk/)]. 
+
+
+
 Tuya Link SDK ESP32 port.
 
 Espressif ESP-IDF checkout release/v4.2 branch
